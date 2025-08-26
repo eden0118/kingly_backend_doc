@@ -10,7 +10,7 @@ sidebar_position: 1.1
 ## 操作步驟
 
 1. 從　sidemenu　進入健康目的管理
-
+   ![alt text](img/add-health-target-04.png)
 2. 此時畫面會顯示健康目的列表，點選新增目的
    ![alt text](img/health-target-list.png)
 
