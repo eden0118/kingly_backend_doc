@@ -31,7 +31,7 @@ sidebar_position: 1.1
 
 #### 4. 行動裝置圖標
 
-    > 參考行動裝置使用流程(待補充)。
+    > 參考[行動裝置使用流程](http://localhost:7001/kingly_backend_doc/docs/base/web-setting/mobile-device-operating-procedure)。
 
 #### 5. 應用按鈕
 
