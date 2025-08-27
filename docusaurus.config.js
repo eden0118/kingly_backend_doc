@@ -66,12 +66,12 @@ const config = {
         },
     },
 
-    stylesheets: [
-        {
-            href: "./src/css/custom.css",
-            type: "text/css",
-        },
-    ],
+    // stylesheets: [
+    //     {
+    //         href: "./src/css/custom.css",
+    //         type: "text/css",
+    //     },
+    // ],
 
     presets: [
         [
@@ -99,7 +99,7 @@ const config = {
                 //     onUntruncatedBlogPosts: "warn",
                 // },
                 theme: {
-                    customCss: "./src/css/custom.css",
+                    customCss: require.resolve("./src/css/custom.css"),
                 },
             }),
         ],
@@ -224,6 +224,7 @@ const config = {
                 disableSwitch: false, // 是否禁用切換按鈕
                 respectPrefersColorScheme: true, // 根據瀏覽器設定自動切換主題
             },
+            metadata: [{ name: "robots", content: "noindex,nofollow" }],
         }),
     themes: [
         [
