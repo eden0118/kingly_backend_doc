@@ -231,6 +231,8 @@ const config = {
             {
                 hashed: true,
                 language: ["en", "zh"],
+                forceIgnoreNoIndex: true,
+                docsRouteBasePath: ["/", "/docs"],
             },
         ],
     ],
