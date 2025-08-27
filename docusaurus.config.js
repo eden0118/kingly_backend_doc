@@ -224,6 +224,7 @@ const config = {
                 disableSwitch: false, // 是否禁用切換按鈕
                 respectPrefersColorScheme: true, // 根據瀏覽器設定自動切換主題
             },
+            metadata: [{ name: "robots", content: "noindex,nofollow" }],
         }),
     themes: [
         [
