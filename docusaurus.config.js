@@ -66,12 +66,12 @@ const config = {
         },
     },
 
-    stylesheets: [
-        {
-            href: "./src/css/custom.css",
-            type: "text/css",
-        },
-    ],
+    // stylesheets: [
+    //     {
+    //         href: "./src/css/custom.css",
+    //         type: "text/css",
+    //     },
+    // ],
 
     presets: [
         [
@@ -99,7 +99,7 @@ const config = {
                 //     onUntruncatedBlogPosts: "warn",
                 // },
                 theme: {
-                    customCss: "./src/css/custom.css",
+                    customCss: require.resolve("./src/css/custom.css"),
                 },
             }),
         ],
