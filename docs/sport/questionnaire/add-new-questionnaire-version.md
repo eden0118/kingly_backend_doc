@@ -5,7 +5,7 @@ sidebar_position: 1.2
 
 # 新增問卷版本
 
-1.  點擊側邊攔 問卷版本列表 進入 健康問卷管理
+1.  點擊側邊欄 健康問卷管理 進入 問卷版本列表
     ![alt text](img/sidemenu-questionnaire.png)
 
 2.  列表顯示

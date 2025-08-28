@@ -15,7 +15,8 @@ sidebar_position: 2.3
 
 1. 登入頁面點選 忘記密碼
    ![登入](./img/login.png)
-2. 進入忘記密碼頁面，輸入註冊帳號 e-mail - ![忘記密碼](./img/forget-password.png)
+2. 進入忘記密碼頁面，輸入註冊帳號 e-mail
+   ![忘記密碼](./img/forget-password.png)
 
 3. e-mail 收取重設密碼連結
    ![收取重設密碼連結](img/reset-password-email.png)

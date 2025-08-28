@@ -6,7 +6,7 @@ sidebar_position: 1.1
 # 首頁設定
 
 針對首頁顯示內容的各項操作設定，包含網站標題、Logo、icon、社群分享、Footer 的內容皆可以自訂。
-從側邊攔，點選 網頁設定 展開後選擇 首頁設定進入。
+從側邊欄，點選 網頁設定 展開後選擇 首頁設定進入。
 
 ![enter page](img/enter-homepage-setting.png)
 
