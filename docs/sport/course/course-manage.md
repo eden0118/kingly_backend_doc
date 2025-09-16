@@ -1,6 +1,6 @@
 ---
 title: 運動課程
-sidebar_position: 1
+sidebar_position: 1.1
 ---
 
 # 運動課程
@@ -94,5 +94,8 @@ sidebar_position: 1
 2. 點選 刪除
    ![alt text](img/delete-course-02.png)
 
-3. 點選 確認刪除，刪除後無法復原，請謹慎操作。
+3. 點選 確認刪除。
+   :::danger
+   刪除後無法還原，請謹慎操作。
+   :::
    ![alt text](img/delete-course-03.png)
