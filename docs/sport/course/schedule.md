@@ -5,6 +5,8 @@ sidebar_position: 4
 
 # 運動課表
 
+> 參考[APP 課程資料結構說明](./course-intro.md)了解課程結構。
+
 ## 欄位說明
 
 ![alt text](img/course-schedule-02.png)
