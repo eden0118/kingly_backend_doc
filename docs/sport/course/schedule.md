@@ -56,6 +56,7 @@ sidebar_position: 4
 7. 這時下方會按設定先行產生一個課表，此時可以自行設定動作順序
    ![alt text](img/edit-dayily-02.png)
     - 更換：點選後可以從上面設定的動作列表內選擇其他動作替換
+      ![alt text](img/change-daily-action-01.png)
     - 移除：移除此動作，會出現確認彈窗。
       ![alt text](img/delete-daily-action-01.png)
     - 手動排序：可以調整動作順序
@@ -66,6 +67,7 @@ sidebar_position: 4
         3. 點選 確認，保存順序
            ![alt text](img/sort-action-03.png)
     - 新增動作：點選後會有彈窗顯示動作列表，可選擇要加入的動作
+      ![alt text](img/add-daily-action-01.png)
 
 ## 刪除課表
 
