@@ -53,12 +53,14 @@ sidebar_position: 1.1
 
 #### 休息訊息
 
+![alt text](img/edit-rest-message.png)
+
 - 至少需要設定 休息訊息01，最多可設定三個。若有多個休息訊息，會全部提供給前端使用。
 - 文字欄位為必填，音檔不限制。
 
-![alt text](img/edit-rest-message.png)
-
 #### 設定運動強度
+
+![alt text](img/workout-level-01.png)
 
 - 分為固定強度、三級、五級，影響下方強度設定欄位。
 
@@ -68,8 +70,6 @@ sidebar_position: 1.1
 - 強度設定
     - 可設定計次與計秒情況下每個動作的運動組數及次數。
     - 每個強度至少都需要設定一個背景音樂。
-
-![alt text](img/workout-level-01.png)
 
 #### 訓練課表
 
