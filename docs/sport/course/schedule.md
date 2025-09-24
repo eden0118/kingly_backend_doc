@@ -41,6 +41,7 @@ sidebar_position: 4
 4. 設定重複限制，在生成課表的時候會按照限制排除
 5. 動作排序選擇 隨機排序
 6. 點選課表預覽建立，這裡可以看到課表大概會是怎麼樣，但不會保存內容，使用者每次進入課程都會依照設定條件由系統產生課表，有一定隨機性。
+   ![alt text](img/edit-dayily-03.png)
    ![alt text](img/edit-dayily-01.png)
 
 ### 設定固定排序課表
@@ -54,9 +55,10 @@ sidebar_position: 4
 5. 動作排序選擇 固定排序
 6. 點選課表預覽建立
 7. 這時下方會按設定先行產生一個課表，此時可以自行設定動作順序
+   ![alt text](img/edit-dayily-04.png)
    ![alt text](img/edit-dayily-02.png)
     - 更換：點選後可以從上面設定的動作列表內選擇其他動作替換
-      ![alt text](img/change-daily-action-01.png)
+      ![alt text](img/change-daily-action-01.jpg)
     - 移除：移除此動作，會出現確認彈窗。
       ![alt text](img/delete-daily-action-01.png)
     - 手動排序：可以調整動作順序
@@ -67,7 +69,7 @@ sidebar_position: 4
         3. 點選 確認，保存順序
            ![alt text](img/sort-action-03.png)
     - 新增動作：點選後會有彈窗顯示動作列表，可選擇要加入的動作
-      ![alt text](img/add-daily-action-01.png)
+      ![alt text](img/add-daily-action-01.jpg)
 
 ## 刪除課表
 
