@@ -1,16 +1,16 @@
 ---
-title: 刪除部位
+title: 删除部位
 sidebar_position: 1.3
 ---
 
-# 刪除部位
+# 删除部位
 
-> 條件限制：有關聯動作的部位不能刪除。
+> 条件限制：有关联动作的部位不能删除。
 
-1. 確認要刪除的部位是否沒有關聯動作。
+1. 确认要删除的部位是否没有关联动作。
    ![alt text](img/delete-body-part-01.png)
-2. 點選 刪除
+2. 点选 删除
    ![alt text](img/delete-body-part-02.png)
-3. 再次確認刪除
+3. 再次确认删除
    ![alt text](img/delete-body-part-03.png)
-4. 刪除成功
+4. 删除成功
