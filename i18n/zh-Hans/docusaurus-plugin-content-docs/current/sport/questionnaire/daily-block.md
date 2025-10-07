@@ -1,39 +1,39 @@
 ---
-title: 編輯活動日常表現區塊
+title: 编辑活动日常表现区块
 sidebar_position: 1.4
 ---
 
-# 活動日常表現區塊
+# 活动日常表现区块
 
-此活動區塊只有一個問題，選項部分必須要設定對應結果。
+此活动区块只有一个问题，选项部分必须要设定对应结果。
 ![alt text](img/daily-block.png)
 
 ### 排序
 
-- 點選排序
+- 点选排序
   ![alt text](img/daily-block-sort-01.png)
 
-- 使用箭頭調整順序
+- 使用箭头调整顺序
   ![alt text](img/daily-block-sort-02.png)
 
-- 點擊保存
+- 点击保存
   ![alt text](img/daily-block-sort-03.png)
 
-### 新增選項
+### 新增选项
 
-- 點擊 新增選項
+- 点击 新增选项
   ![alt text](img/daily-block-add-option-01.png)
 
-- 會跳出新增選項的彈窗，填寫完後點選 新增 即可
+- 会跳出新增选项的弹窗，填写完后点选 新增 即可
   ![alt text](img/daily-block-add-option-02.png)
 
-### 編輯選項
+### 编辑选项
 
-- 點選選項，可展開編輯框
+- 点选选项，可展开编辑框
   ![alt text](img/daily-block-edit-option-01.png)
 
-- 展開後可編輯選項名稱以及加入附加說明、設定該選項的對應結果。
+- 展开后可编辑选项名称以及加入附加说明、设定该选项的对应结果。
   ![alt text](img/daily-block-edit-option-02.png)
 
-- 編輯完成後點選保存
+- 编辑完成后点选保存
   ![alt text](img/daily-block-edit-option-03.png)

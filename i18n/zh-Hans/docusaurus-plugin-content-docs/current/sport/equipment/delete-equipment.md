@@ -1,16 +1,16 @@
 ---
-title: 刪除運動器材
+title: 删除运动器材
 sidebar_position: 1.3
 ---
 
-# 刪除運動器材
+# 删除运动器材
 
-> 有關聯課程的運動器材無法刪除。
+> 有关联课程的运动器材无法删除。
 
-1. 確認要刪除的器材是否沒有關聯課程。
+1. 确认要删除的器材是否没有关联课程。
    ![alt text](img/delete-equipment-01.png)
-2. 點選 刪除
+2. 点选 删除
    ![alt text](img/delete-equipment-02.png)
-3. 再次確認刪除
+3. 再次确认删除
    ![alt text](img/delete-equipment-03.png)
-4. 刪除成功
+4. 删除成功

@@ -1,15 +1,15 @@
 ---
-title: 啟用問卷
+title: 启用问卷
 sidebar_position: 1.1
 ---
 
-# 啟用問卷
+# 启用问卷
 
-> 同時只能啟用一個問卷，一旦啟用了就無法編輯。 <br/>
-> 問卷狀態說明參考　[健康問卷狀態說明](./questionnaire-status.md)。
+> 同时只能启用一个问卷，一旦启用了就无法编辑。 <br/>
+> 问卷状态说明参考　[健康问卷状态说明](./questionnaire-status.md)。
 
-1. 無狀態的問卷才可啟用
+1. 无状态的问卷才可启用
    ![alt text](img/active-questionnaire.png)
 
-2. 啟用後點選問卷，問卷頁內所有欄位皆不可編輯
+2. 启用后点选问卷，问卷页内所有栏位皆不可编辑
    ![alt text](img/activer-questionnaire-disable.png)

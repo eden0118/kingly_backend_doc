@@ -1,8 +1,8 @@
 {
-    "label": "課程管理",
+    "label": "课程管理",
     "position": 5,
     "link": {
         "type": "generated-index",
-        "description": "課程管理相關操作"
+        "description": "课程管理相关操作"
     }
 }
