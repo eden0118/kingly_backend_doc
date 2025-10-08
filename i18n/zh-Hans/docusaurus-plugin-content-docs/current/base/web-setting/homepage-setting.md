@@ -1,63 +1,63 @@
 ---
-title: 首頁設定
+title: 首页设定
 sidebar_position: 1.1
 ---
 
-# 首頁設定
+# 首页设定
 
-針對首頁顯示內容的各項操作設定，包含網站標題、Logo、icon、社群分享、Footer 的內容皆可以自訂。
-從側邊欄，點選 網頁設定 展開後選擇 首頁設定進入。
+针对首页显示内容的各项操作设定，包含网站标题、Logo、icon、社群分享、Footer 的内容皆可以自订。
+从侧边栏，点选 网页设定 展开后选择 首页设定进入。
 
 ![enter page](img/enter-homepage-setting.png)
 
-## 基本資料
+## 基本资料
 
 ![basic-setting](img/basic-setting.png)
 
-#### 1. 網站標題：
+#### 1. 网站标题：
 
-    對應前端網站頁面標籤上顯示的名稱
-    ![website name](img/website-name.png)
+对应前端网站页面标签上显示的名称
+![website name](img/website-name.png)
 
-#### 2. 網站全域 Logo
+#### 2. 网站全域 Logo
 
-    顯示在畫面左上角 Header 的 LOGO 圖片
-    ![logo](img/website-logo.png)
+显示在画面左上角 Header 的 LOGO 图片
+![logo](img/website-logo.png)
 
-#### 3. 網站頁標
+#### 3. 网站页标
 
-    對應前端網站頁面標籤上顯示的 icon
-    ![website icon](img/website-icon.png)
+对应前端网站页面标签上显示的 icon
+![website icon](img/website-icon.png)
 
-#### 4. 行動裝置圖標
+#### 4. 行动装置图标
 
-    > 參考[行動裝置使用流程](http://localhost:7001/kingly_backend_doc/docs/base/web-setting/mobile-device-operating-procedure)。
+> 参考[行动装置使用流程](http://localhost:7001/kingly_backend_doc/docs/base/web-setting/mobile-device-operating-procedure)。
 
-#### 5. 應用按鈕
+#### 5. 应用按钮
 
-    :::danger 應用到前端網站
-    這個頁面任何變更（包含下方社群以及聯絡資訊），按應用才會保存且應用到前端網站。
-    :::
+:::danger 应用到前端网站
+这个页面任何变更（包含下方社群以及联络资讯），按应用才会保存且应用到前端网站。
+:::
 
-#### 6. 切換功能 Tab
+#### 6. 切换功能 Tab
 
-    點選後可以快速跳轉到此頁面其他功能區塊，修改後要按應用才會生效。
+点选后可以快速跳转到此页面其他功能区块，修改后要按应用才会生效。
 
-#### 7. 多語系的個別設定功能 (待開發)
+#### 7. 多语系的个别设定功能 (待开发)
 
-    預計之後會需要按照語系設定個別的內容，但目前尚未開發此功能。
+预计之后会需要按照语系设定个别的内容，但目前尚未开发此功能。
 
 ## Footer
 
-對應前端網站 Footer 的顯示內容
+对应前端网站 Footer 的显示内容
 ![footer](img/footer.png)
 
-#### 01.社群設定
+#### 01.社群设定
 
-後台這裡可以設定要顯示在前端的社群及連結，必須勾選才會顯示。
+后台这里可以设定要显示在前端的社群及连结，必须勾选才会显示。
 ![alt text](img/social-list.png)
 
-#### 02.聯絡資訊
+#### 02.联络资讯
 
-設定要顯示在前端的公司聯絡資訊，包含地址、電話、電子信箱等以及版權宣告。
+设定要显示在前端的公司联络资讯，包含地址、电话、电子信箱等以及版权宣告。
 ![alt text](img/comtact.png)
