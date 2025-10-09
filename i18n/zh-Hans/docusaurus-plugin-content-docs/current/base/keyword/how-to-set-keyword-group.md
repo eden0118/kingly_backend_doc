@@ -18,7 +18,7 @@ sidebar_position: 2.1
 3. 进入关键字群组设定页面
    ![设定关键字](img/keyword-group-01.png)
 
-4. 可透过输入框筛选/寻找关键字，
+4. 可透过输入框筛选/寻找关键字
    ![设定关键字](img/keyword-group-02.png)
 
 5. 点选关键字，即可看到他跳转到右边

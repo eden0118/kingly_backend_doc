@@ -15,7 +15,9 @@ sidebar_position: 2.3
 
 1. 登入页面点选 忘记密码
    ![登入](./img/login.png)
-2. 进入忘记密码页面，输入注册帐号 e-mail - ![忘记密码](./img/forget-password.png)
+
+2. 进入忘记密码页面，输入注册帐号 e-mail
+   ![忘记密码](./img/forget-password.png)
 
 3. e-mail 收取重设密码连结
    ![收取重设密码连结](img/reset-password-email.png)
