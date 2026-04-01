@@ -15,6 +15,8 @@ sidebar_position: 1.1
    ![alt text](img/health-target-list.png)
 
 3. 新增健康目的頁面，填寫目的說明等基本資訊
+   - 多語系設定：可新增簡體中文或英文的關鍵字名稱。
+   - 點選說明原因以及改善方法欄位上方的語系切換按鈕（ZH/CH/EN，預設語系必填），可填寫對應語系的說明內容。
    ![alt text](img/add-health-target-01.png)
 
 4. 設定關聯課程，使用拖曳方式把課程放到對應的欄位即可
@@ -22,5 +24,5 @@ sidebar_position: 1.1
 
     > 這邊涉及課程本身資料完整性，若不完整就無法設定，詳細狀態規範參考 >> [設定健康目的對應課程](set-recommend-course.md)
 
-5. 右上角點選 新增 即完成步驟
+5. 右上角點選「新增」即完成步驟
    ![alt text](img/add-health-target-03.png)

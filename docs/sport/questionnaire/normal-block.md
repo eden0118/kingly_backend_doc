@@ -27,6 +27,8 @@ sidebar_position: 1.4
     - 是非題：詢問疾病史與健康狀態
       ![alt text](img/add-question-04.png)
 
+- 填寫問題內容與說明；點選欄位上方的語系切換按鈕（ZH/CH/EN，預設語系必填），可填寫對應語系的資料。
+
 - 填寫內容後點選 新增問題
   ![alt text](img/add-question-05.png)
 
@@ -35,7 +37,7 @@ sidebar_position: 1.4
 - 點選 編輯
   ![alt text](img/edit-question-01.png)
 
-- 原則上與新增問題相同，各項欄位皆可調整
+- 原則上與新增問題相同，各項欄位皆可調整；點選欄位上方的語系切換按鈕（ZH/CH/EN，預設語系必填），可填寫對應語系的資料。
   ![alt text](img/edit-question-02.png)
 
 ### 刪除問題

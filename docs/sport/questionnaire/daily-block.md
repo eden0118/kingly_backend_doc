@@ -24,15 +24,16 @@ sidebar_position: 1.4
 - 點擊 新增選項
   ![alt text](img/daily-block-add-option-01.png)
 
-- 會跳出新增選項的彈窗，填寫完後點選 新增 即可
+- 會跳出新增選項的彈窗，點選欄位上方的語系切換按鈕（ZH/CH/EN，預設語系必填），可填寫對應語系的資料。
   ![alt text](img/daily-block-add-option-02.png)
+- 填寫完後點選 新增 即可。
 
 ### 編輯選項
 
 - 點選選項，可展開編輯框
   ![alt text](img/daily-block-edit-option-01.png)
 
-- 展開後可編輯選項名稱以及加入附加說明、設定該選項的對應結果。
+- 展開後可編輯選項名稱以及加入附加說明、設定該選項的對應結果；點選欄位上方的語系切換按鈕（ZH/CH/EN，預設語系必填），可填寫對應語系的資料。
   ![alt text](img/daily-block-edit-option-02.png)
 
 - 編輯完成後點選保存

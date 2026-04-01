@@ -15,7 +15,8 @@ sidebar_position: 1.1
    ![alt text](img/add-equipment-03.png)
 4. 填寫 器材名稱/說明。注意名稱不可與已有的器材重複。
    ![alt text](img/add-equipment-04.png)
-5. 點擊 新增
+5. 可新增多語系設定；器材說明可透過欄位上方之語系切換按鈕（ZH/CH/EN，預設語系必填）進行填寫各語系內容。
+6. 點擊 新增
    ![alt text](img/add-equipment-05.png)
-6. 新增成功
+7. 新增成功
    ![alt text](img/add-equipment-06.png)
