@@ -22,7 +22,8 @@ sidebar_position: 1
 3. 填寫運動項目資訊
    ![alt text](img/add-course-category-03.png)
 
-4. 點選 新增 即保存
+4. 可新增多語系設定；文字說明可透過欄位上方之語系切換按鈕（ZH/CH/EN，預設語系必填）進行填寫各語系內容。
+5. 點選 新增 即保存
    ![alt text](img/add-course-category-04.png)
 
 ### 編輯運動項目

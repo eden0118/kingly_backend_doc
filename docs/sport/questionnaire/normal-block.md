@@ -28,6 +28,9 @@ sidebar_position: 1.4
       ![alt text](img/add-question-04.png)
 
 - 填寫問題內容與說明；點選欄位上方的語系切換按鈕（ZH/CH/EN，預設語系必填），可填寫對應語系的資料。
+  :::warning
+  問卷中各欄位之多語系內容，若未填寫對應語系資料，系統將自動以預設語系內容顯示。
+  :::
 
 - 填寫內容後點選 新增問題
   ![alt text](img/add-question-05.png)

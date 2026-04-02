@@ -15,6 +15,7 @@ sidebar_position: 1.1
    ![alt text](img/add-body-part-03.png)
 4. 填寫 部位名稱/說明。注意名稱不可與已有的部位重複。
    ![alt text](img/add-body-part-04.png)
-5. 點擊 新增
+5. 可新增多語系設定；部位說明可透過欄位上方之語系切換按鈕（ZH/CH/EN，預設語系必填）進行填寫各語系內容。
+6. 點擊 新增
    ![alt text](img/add-body-part-05.png)
-6. 新增成功
+7. 新增成功
