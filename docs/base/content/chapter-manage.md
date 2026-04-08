@@ -41,7 +41,7 @@ sidebar_position: 2.1
 
     ![修改章節名稱](img/edit-chapter-name-01.png)
 
-2. 此時可編輯章節名稱
+2. 此時可編輯章節名稱，並可依需求新增 簡體中文 與 英文 文章章節名稱。
 
     ![修改章節名稱](img/edit-chapter-name-02.png)
 
@@ -60,11 +60,11 @@ sidebar_position: 2.1
 - 章節名稱不可重複。
   :::
 
-1. 輸入章節名稱
+1. 輸入章節名稱，可依需求新增 簡體中文 與 英文 文章章節名稱。
 
     ![新增章](img/add-chapter-01.png)
 
-2. 點選 `新增` 後，會出現一個新的章節欄位
+2. 點選 `新增` 後，會出現一個新的章節欄位。
    ![新增章](img/add-chapter-02.png)
 
 3. 必須為新增的章添加至少一個小節
@@ -75,7 +75,7 @@ sidebar_position: 2.1
 :::warning 至少需保留一個章。
 :::
 
-1. 點擊 刪除章
+1. 點擊 刪除
 
     ![刪除章](img/delete-chapter.png)
 
